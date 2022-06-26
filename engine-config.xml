@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<!-- Definition of access database -->
+	<database-sgh>
+		<url>10.74.0.144</url>
+		<name>SAGH_DB</name>
+		<userId>u_sagh</userId>
+		<passWord>su_sagh</passWord>
+		<timeOut>90</timeOut>
+	</database-sgh>
+</config>
